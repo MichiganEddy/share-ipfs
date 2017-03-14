@@ -1,0 +1,14 @@
+{
+  "name": "shipfs",
+  "version": "0.0.1",
+  "description": "Share IPFS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris C.",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.17.1"
+  }
+}
