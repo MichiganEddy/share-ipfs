@@ -1,4 +1,8 @@
 
+'require strict';
+const ip = require('ip-public');
+
+
 // GLIP: Get Local IP
 glip = function glip() {
     let pr = new Promise(

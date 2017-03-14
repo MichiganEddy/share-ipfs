@@ -10,5 +10,10 @@
   "license": "MIT",
   "devDependencies": {
     "eslint": "^3.17.1"
+  },
+  "dependencies": {
+    "js-libp2p-crypto": "^0.2.0",
+    "libp2p-crypto": "^0.8.6",
+    "node-forge": "^0.7.0"
   }
 }
